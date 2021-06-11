@@ -1,0 +1,94 @@
+2019-01-23 15:08:36,528 ERROR [root] - Exception occured while Displaying Loan Programs
+2019-01-23 15:08:42,486 ERROR [root] - Exception occured while Displaying Loan Programs
+2019-01-23 15:11:51,377 ERROR [root] - Customer faced some error : Error in ORA-00904: "LOAN_AMOUNT": invalid identifier
+
+2019-01-23 15:13:21,461 ERROR [root] - Customer faced some error : Error in ORA-00904: "LOAN_AMOUNT": invalid identifier
+
+2019-02-02 14:01:05,498 ERROR [root] - Customer faced some error : Error in ORA-00904: "LOAN_AMOUNT": invalid identifier
+
+2019-02-02 14:03:38,070 ERROR [root] - Customer faced some error : Error in ORA-02291: integrity constraint (SYSTEM.SYS_C007016) violated - parent key not found
+
+2019-02-02 14:05:14,891 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-02 14:05:14,892 INFO [root] - Loan Application For Application Id 1001 was filled successfully
+2019-02-02 14:10:00,645 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-02 14:10:00,646 INFO [root] - Loan Application For Application Id 1002 was filled successfully
+2019-02-02 14:13:54,961 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-02 14:13:54,962 INFO [root] - Loan Application For Application Id 1003 was filled successfully
+2019-02-02 14:15:19,082 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-02 14:15:19,083 INFO [root] - Loan Application For Application Id 1004 was filled successfully
+2019-02-02 14:16:53,088 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-02 14:16:53,089 INFO [root] - Loan Application For Application Id 1005 was filled successfully
+2019-02-02 14:17:32,599 INFO [root] - New Loan Application is generated
+2019-02-05 22:44:58,478 ERROR [root] - Exception occured while Displaying Loan Programs
+2019-02-05 22:52:14,423 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-05 22:52:14,425 INFO [root] - Loan Application For Application Id 1020 was filled successfully
+2019-02-05 22:53:02,401 INFO [root] - New Loan Application is generated
+2019-02-05 23:01:39,426 INFO [root] - Application status for application id 1020 was successfully updated
+2019-02-05 23:01:39,471 ERROR [root] - Member Of Loan Approval Department Faced Error in : Error in ORA-00904: "LOAN_AMOUNT": invalid identifier
+
+2019-02-05 23:04:07,201 INFO [root] - Application status for application id 1020 was successfully updated
+2019-02-06 09:22:01,172 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 09:22:01,204 INFO [root] - Loan Application For Application Id 1000 was filled successfully
+2019-02-06 09:22:38,950 INFO [root] - New Loan Application is generated
+2019-02-06 09:56:22,208 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 09:56:22,208 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:02:09,485 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:02:09,485 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:02:19,829 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:02:19,829 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:02:36,894 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:02:36,894 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:08:55,441 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:08:55,442 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:09:01,596 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:09:01,596 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:17:14,216 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:17:14,216 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:17:29,980 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:17:29,980 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:20:19,365 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:20:19,365 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:30:19,494 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:30:19,494 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:34:30,476 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:34:30,476 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:35:01,144 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:35:01,144 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:35:52,271 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:35:52,271 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:42:54,606 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:42:54,606 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:46:17,364 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:46:17,364 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:52:13,739 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:52:13,740 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:52:57,679 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:52:57,679 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 10:54:28,279 ERROR [com.cg.lpa.dao.LoanProcessingDaoImpl] - Fail to convert to internal representation
+2019-02-06 10:54:28,280 ERROR [root] - Customer faced some error : Tehnical problem occured. Refer log
+2019-02-06 13:59:19,623 ERROR [root] - Customer faced some error : Error in ORA-12899: value too large for column "SYSTEM"."LOAN_APPLICATION"."GUARANTEE_COVER" (actual: 23, maximum: 20)
+
+2019-02-06 14:00:51,507 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 14:00:51,507 INFO [root] - Loan Application For Application Id 1002 was filled successfully
+2019-02-06 14:01:58,634 INFO [root] - New Loan Application is generated
+2019-02-06 14:03:28,178 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 14:03:28,179 INFO [root] - Loan Application For Application Id 1003 was filled successfully
+2019-02-06 14:04:02,084 INFO [root] - New Loan Application is generated
+2019-02-06 14:04:43,970 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 14:04:43,970 INFO [root] - Loan Application For Application Id 1004 was filled successfully
+2019-02-06 17:03:43,916 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 17:03:43,916 INFO [root] - Loan Application For Application Id 1005 was filled successfully
+2019-02-06 17:06:49,968 INFO [root] - New Loan Application is generated
+2019-02-06 17:08:13,033 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 17:08:13,033 INFO [root] - Loan Application For Application Id 1006 was filled successfully
+2019-02-06 17:09:58,757 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 17:09:58,758 INFO [root] - Loan Application For Application Id 1007 was filled successfully
+2019-02-06 17:11:04,764 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-06 17:11:04,765 INFO [root] - Loan Application For Application Id 1008 was filled successfully
+2019-02-06 17:11:49,807 INFO [root] - New Loan Application is generated
+2019-02-09 12:56:42,653 ERROR [root] - Customer faced some error : Error in ORA-12899: value too large for column "SYSTEM"."LOAN_APPLICATION"."GUARANTEE_COVER" (actual: 23, maximum: 20)
+
+2019-02-09 13:09:58,875 INFO [root] - Data is successfully inserted in Loan Application Form
+2019-02-09 13:09:58,875 INFO [root] - Loan Application For Application Id 1010 was filled successfully
+2019-02-09 13:10:27,104 INFO [root] - New Loan Application is generated
+2019-02-09 13:13:44,109 INFO [root] - Application status for application id 1010 was successfully updated
